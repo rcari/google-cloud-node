@@ -12,6 +12,4669 @@
           ]
         }
       ],
+      "version": "7.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/grafeas",
+      "id": "3832d6e2-38ff-4c2f-9884-d1dabc76bc43",
+      "createTime": "2026-11-10T15:26:52.620Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/streetview-publish",
+      "id": "f9b42370-a8fb-4d6f-a3a8-17855cca7ba5",
+      "createTime": "2026-11-10T15:26:52.585Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/storage-transfer",
+      "id": "d0f19b23-1171-4764-9fc6-34532c3f775b",
+      "createTime": "2026-11-10T15:26:52.549Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.14.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/storage-control",
+      "id": "0fdca68f-b896-42ab-9442-6b46c8bad91f",
+      "createTime": "2026-11-10T15:26:52.515Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.10.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/reviews",
+      "id": "8e93e9b0-8c1a-490f-8fac-e755e4faaf74",
+      "createTime": "2026-11-10T15:26:52.459Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.19.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/reports",
+      "id": "cd84f74d-9a0d-49fa-8584-9bcb69f273ae",
+      "createTime": "2026-11-10T15:26:52.425Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.13.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/quota",
+      "id": "5390ed85-5bc6-460e-8f0a-b8be1ab15f89",
+      "createTime": "2026-11-10T15:26:52.386Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.9.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/promotions",
+      "id": "420dc8ff-b4d6-4ab9-a9af-c191ada4587d",
+      "createTime": "2026-11-10T15:26:52.321Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.14.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/products",
+      "id": "9d8a8c41-91f3-4a3e-b742-c82035ac18a7",
+      "createTime": "2026-11-10T15:26:52.276Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/ordertracking",
+      "id": "ce44776f-810c-4b32-b746-53b1caa89aad",
+      "createTime": "2026-11-10T15:26:52.245Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/notifications",
+      "id": "373dfafd-9d4c-4425-a7bc-1205d243e268",
+      "createTime": "2026-11-10T15:26:52.211Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/loyaltycustomers",
+      "id": "ae141b46-8e33-4da6-a101-279fb15b5379",
+      "createTime": "2026-11-10T15:26:52.179Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.13.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/lfp",
+      "id": "09924033-774e-46e6-8b0b-3c25276628ad",
+      "createTime": "2026-11-10T15:26:52.143Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/issueresolution",
+      "id": "73f3f8a1-57a2-4840-911e-a4595bf0ceed",
+      "createTime": "2026-11-10T15:26:52.111Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.16.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/inventories",
+      "id": "80a5dbff-baa8-4ebd-9c9f-40ecd0aa9ae4",
+      "createTime": "2026-11-10T15:26:52.075Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.14.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/datasources",
+      "id": "c5134601-cb77-4f92-9112-f8d6b18e1627",
+      "createTime": "2026-11-10T15:26:52.041Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.10.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/conversions",
+      "id": "b8312c5c-56ec-47dc-a10e-2b914f1d9222",
+      "createTime": "2026-11-10T15:26:52.004Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "433ca868b43c5cb40be11c9104268f860272c296",
+          "message": "Remove discontinued Merchant API v1beta",
+          "issues": [
+            "9850"
+          ],
+          "scope": "merchantapi",
+          "breakingChangeNote": "remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.0.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/accounts",
+      "id": "4164292c-03fd-49a6-a963-8f997a8cf3d8",
+      "createTime": "2026-11-10T15:26:51.973Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.14.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/css",
+      "id": "8e4fac37-4f27-459c-b937-5829f0cc1715",
+      "createTime": "2026-11-10T15:26:51.939Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dlp",
+      "id": "b12b2d02-8cc4-40e3-9e87-5f68fffc83d2",
+      "createTime": "2026-11-10T15:26:51.907Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/monitoring-dashboards",
+      "id": "dfe2dc66-76f8-4d5a-82e7-5efc5301d148",
+      "createTime": "2026-11-10T15:26:51.872Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.8.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-ads/marketing-platform-admin",
+      "id": "123f9883-bfb6-4b0c-8948-aa0fa4d1f0ec",
+      "createTime": "2026-11-10T15:26:51.839Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/routing",
+      "id": "2e1ef053-5e76-45c3-b68c-33a0c00548cb",
+      "createTime": "2026-11-10T15:26:51.801Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/places",
+      "id": "ad4809e1-b37b-409e-bfc2-f3fd6c5c5412",
+      "createTime": "2026-11-10T15:26:51.770Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/maps-platform-datasets",
+      "id": "8698a1f5-6e61-459c-ac95-d5c28395d40f",
+      "createTime": "2026-11-10T15:26:51.735Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/mapmanagement",
+      "id": "b1b20994-7a50-41ae-96e9-f541971042de",
+      "createTime": "2026-11-10T15:26:51.703Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-maps/isochrones",
+      "id": "a5c1dbc8-220a-4b2b-b67e-89a859155e44",
+      "createTime": "2026-11-10T15:26:51.663Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/geocode",
+      "id": "cd7ed8b2-84b9-4fdc-aff7-a11cf5861322",
+      "createTime": "2026-11-10T15:26:51.609Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.9.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/fleetengine-delivery",
+      "id": "3f3a25ce-b38e-4831-9ba5-eba4cbb7a6eb",
+      "createTime": "2026-11-10T15:26:51.563Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.11.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/fleetengine",
+      "id": "600cec56-6ab2-4f3a-99c4-d75f08e63ff3",
+      "createTime": "2026-11-10T15:26:51.532Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.9.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/areainsights",
+      "id": "a158e487-407d-4d6e-8d45-318ef5eccc04",
+      "createTime": "2026-11-10T15:26:51.496Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/addressvalidation",
+      "id": "1e4bbbd3-d15c-4bd8-9c11-390da7a20ab5",
+      "createTime": "2026-11-10T15:26:51.462Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/access-context-manager",
+      "id": "d66a507c-e899-4fd1-bb64-61ac7f452b0a",
+      "createTime": "2026-11-10T15:26:51.427Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/iam-credentials",
+      "id": "33e92732-f12d-475c-be0a-cd001ace4e35",
+      "createTime": "2026-11-10T15:26:51.395Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/iam",
+      "id": "3400a0e0-d1cf-4d1e-9363-982e506cd33e",
+      "createTime": "2026-11-10T15:26:51.359Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/containeranalysis",
+      "id": "871d798f-25b5-447e-9e36-c95252e66f11",
+      "createTime": "2026-11-10T15:26:51.328Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/cloudprofiler",
+      "id": "e305c3d4-ea2b-4b36-9b35-858f1b770764",
+      "createTime": "2026-11-10T15:26:51.294Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/artifact-registry",
+      "id": "09062a70-bed2-4282-959c-d103d8e46db4",
+      "createTime": "2026-11-10T15:26:51.264Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.11.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/health",
+      "id": "e4a26e5d-01e0-4716-9ff6-f6d2714c9a26",
+      "createTime": "2026-11-10T15:26:51.230Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.11.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google/developer-knowledge",
+      "id": "f4a87655-5cc9-4fbd-8ffc-61f86bb4c30a",
+      "createTime": "2026-11-10T15:26:51.200Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dataflow",
+      "id": "e9f66b95-00e9-40b1-8a56-ace2baeb6b3a",
+      "createTime": "2026-11-10T15:26:51.167Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/container",
+      "id": "fa276657-04ee-4131-8d4f-c3c9b3d24f8c",
+      "createTime": "2026-11-10T15:26:51.137Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/workstations",
+      "id": "dc6bf48c-bc99-4459-b87c-61b7aa3a64c1",
+      "createTime": "2026-11-10T15:26:51.103Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/workloadmanager",
+      "id": "f1f2f288-97c2-4dca-a1ff-0f0c0d96dcf2",
+      "createTime": "2026-11-10T15:26:51.073Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/workloadidentity",
+      "id": "5c5524d8-6fb1-4f16-a195-0dc20ad284ad",
+      "createTime": "2026-11-10T15:26:51.040Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/workflows",
+      "id": "49e7f5e3-5d8b-47d5-9b5b-1e5c21f48fa3",
+      "createTime": "2026-11-10T15:26:51.009Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/web-security-scanner",
+      "id": "f98d8fdb-4bbd-4a85-95c9-7c0b7783de7d",
+      "createTime": "2026-11-10T15:26:50.978Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/web-risk",
+      "id": "8d961e82-ba22-492c-ae7b-3d3b7982a641",
+      "createTime": "2026-11-10T15:26:50.931Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/vpc-access",
+      "id": "76e2e244-544d-43ea-b976-3817759135c7",
+      "createTime": "2026-11-10T15:26:50.893Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/vmwareengine",
+      "id": "d2d55976-af57-46a6-a636-2ad8bc1f0b63",
+      "createTime": "2026-11-10T15:26:50.862Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/vmmigration",
+      "id": "db66423f-351e-4ce1-8d7a-b03ade3e0861",
+      "createTime": "2026-11-10T15:26:50.827Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/visionai",
+      "id": "8657e31e-392c-4a5f-8ec1-be92f3f48cd6",
+      "createTime": "2026-11-10T15:26:50.796Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/vision",
+      "id": "ff2a89ea-093a-4780-99cf-73215ad27b93",
+      "createTime": "2026-11-10T15:26:50.761Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/video-intelligence",
+      "id": "d1b56f02-03b5-454f-b5b8-4826d9720a9b",
+      "createTime": "2026-11-10T15:26:50.730Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/video-transcoder",
+      "id": "186979dd-3689-4027-93af-d4b8e686e211",
+      "createTime": "2026-11-10T15:26:50.695Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/video-stitcher",
+      "id": "5901a21d-72a6-4c22-bfa2-b494edce7de6",
+      "createTime": "2026-11-10T15:26:50.665Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/livestream",
+      "id": "7fbd69cf-ef19-4c0c-b72a-01eda0918cdd",
+      "createTime": "2026-11-10T15:26:50.632Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.15.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/vectorsearch",
+      "id": "3c5b3eea-62e0-4f20-8b86-74452bae91fd",
+      "createTime": "2026-11-10T15:26:50.600Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "10.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/translate",
+      "id": "33d04d82-79d4-436c-8a95-7774624d53df",
+      "createTime": "2026-11-10T15:26:50.565Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/tpu",
+      "id": "5f0581d3-9a0f-4a76-b2cc-c641f816e919",
+      "createTime": "2026-11-10T15:26:50.531Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/text-to-speech",
+      "id": "cf689f03-6fa4-412b-84b9-12daa0644158",
+      "createTime": "2026-11-10T15:26:50.494Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.9.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/telcoautomation",
+      "id": "66ac86cb-ce4b-4567-9396-b057e33765b6",
+      "createTime": "2026-11-10T15:26:50.463Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/tasks",
+      "id": "fb8b8a63-2732-465d-b79e-776d96bf5b96",
+      "createTime": "2026-11-10T15:26:50.430Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "8.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/talent",
+      "id": "ed3e3b72-e40c-4e6c-9d7a-1e468f5e574e",
+      "createTime": "2026-11-10T15:26:50.399Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/support",
+      "id": "19fdfdd2-4047-4327-96fb-86fe84d9590c",
+      "createTime": "2026-11-10T15:26:50.363Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/storageinsights",
+      "id": "7fab695a-61cf-4794-9f03-c277e3139468",
+      "createTime": "2026-11-10T15:26:50.333Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.9.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/storagebatchoperations",
+      "id": "8ef621cb-6e93-43c0-a0ae-329d0a11d484",
+      "createTime": "2026-11-10T15:26:50.303Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        }
+      ],
+      "version": "0.33.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/sql",
+      "id": "3356f480-7e58-4d96-8ed0-275dcf8fbc25",
+      "createTime": "2026-11-10T15:26:50.257Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "8.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/speech",
+      "id": "8ab7f163-f6bf-4573-be77-9747b61f4124",
+      "createTime": "2026-11-10T15:26:50.215Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/spanner-api",
+      "id": "22388d13-b1bd-471d-8814-b1b436aaac17",
+      "createTime": "2026-11-10T15:26:50.184Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/shell",
+      "id": "468d3522-be30-4374-9a08-879ad4038bff",
+      "createTime": "2026-11-10T15:26:50.151Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/servicehealth",
+      "id": "f7935c40-90b2-432e-a55c-8852cd9af8c5",
+      "createTime": "2026-11-10T15:26:50.121Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/service-directory",
+      "id": "72a72f48-ea23-4688-9758-aebc21667c95",
+      "createTime": "2026-11-10T15:26:50.088Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/securitycentermanagement",
+      "id": "80686753-73e7-426f-8900-3a7219aceed3",
+      "createTime": "2026-11-10T15:26:50.058Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "10.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/security-center",
+      "id": "23eb5c3a-1e84-4740-9032-03af70c5e243",
+      "createTime": "2026-11-10T15:26:50.024Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/publicca",
+      "id": "61275bd1-27ca-4e32-8975-f474620736ce",
+      "createTime": "2026-11-10T15:26:49.994Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "8.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/security-private-ca",
+      "id": "5cdacb92-a169-4120-8661-d1873b57c1ce",
+      "createTime": "2026-11-10T15:26:49.961Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.16.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/securesourcemanager",
+      "id": "7d857b38-e2e7-4fe8-b59a-299bc7f51713",
+      "createTime": "2026-11-10T15:26:49.931Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/scheduler",
+      "id": "877af4a2-2a94-4666-ac51-5998ae87b591",
+      "createTime": "2026-11-10T15:26:49.898Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/run",
+      "id": "e98dc1ba-239e-445a-98ee-d3445d2fe77f",
+      "createTime": "2026-11-10T15:26:49.868Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/retail",
+      "id": "d813cc5c-7973-4f6e-8e3c-b618c1ff6be2",
+      "createTime": "2026-11-10T15:26:49.836Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/resource-manager",
+      "id": "fc0b9393-beea-4795-a8b8-bb4c2587eeed",
+      "createTime": "2026-11-10T15:26:49.806Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.20.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/redis-cluster",
+      "id": "e5d17b5f-85e6-4c65-8a84-7fe9594fbde4",
+      "createTime": "2026-11-10T15:26:49.773Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/redis",
+      "id": "5f6beda2-bc95-4618-bab2-3bffca086c83",
+      "createTime": "2026-11-10T15:26:49.743Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "8.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/recommender",
+      "id": "076ec917-8c31-4656-a286-fb294e7d2b89",
+      "createTime": "2026-11-10T15:26:49.709Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/recaptcha-enterprise",
+      "id": "f23e000a-aeeb-4c71-9a23-77aeb94dc194",
+      "createTime": "2026-11-10T15:26:49.679Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/rapidmigrationassessment",
+      "id": "153acdae-d1c2-4ea8-bf9b-76f137d7bfb6",
+      "createTime": "2026-11-10T15:26:49.647Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.9.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/pubsub-api",
+      "id": "35561a0f-eaf2-4e93-9e4e-801e89ac6d67",
+      "createTime": "2026-11-10T15:26:49.596Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "2.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/productregistry",
+      "id": "b6f2503a-3da7-4984-8958-35eb4881a291",
+      "createTime": "2026-11-10T15:26:49.555Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.10.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/privilegedaccessmanager",
+      "id": "78c8ebc0-fd03-4cfc-9c85-ce67cac20734",
+      "createTime": "2026-11-10T15:26:49.525Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/private-catalog",
+      "id": "4538c491-a3f3-4cd6-97cf-e6cf7a3c1342",
+      "createTime": "2026-11-10T15:26:49.492Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/policy-troubleshooter-iam",
+      "id": "cad4169a-64de-47ae-b6a3-9de34ea2931f",
+      "createTime": "2026-11-10T15:26:49.461Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/policy-troubleshooter",
+      "id": "03074d72-9c94-4549-85c9-cc5d66cc7bd4",
+      "createTime": "2026-11-10T15:26:49.427Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/policysimulator",
+      "id": "9982252b-eb50-4920-95d4-787a608f069d",
+      "createTime": "2026-11-10T15:26:49.397Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/phishing-protection",
+      "id": "d3b8b28c-fb53-461e-b53a-83263ec437d0",
+      "createTime": "2026-11-10T15:26:49.363Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.10.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/parametermanager",
+      "id": "42e97e70-8dec-4d0f-9ca3-d86904dd7a6b",
+      "createTime": "2026-11-10T15:26:49.332Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.16.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/parallelstore",
+      "id": "b3ea62df-0838-42ed-825b-a71b36d64104",
+      "createTime": "2026-11-10T15:26:49.293Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/os-login",
+      "id": "8b12eb80-be65-4b8d-bf6b-14266b01bddb",
+      "createTime": "2026-11-10T15:26:49.262Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/os-config",
+      "id": "b0f45d70-6734-4f91-af84-b9d424634485",
+      "createTime": "2026-11-10T15:26:49.229Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/org-policy",
+      "id": "c960617c-a725-4dff-820a-aa988c6f086c",
+      "createTime": "2026-11-10T15:26:49.196Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/orchestration-airflow",
+      "id": "d02d9047-ae1b-40ba-bf70-b3078b29ce7b",
+      "createTime": "2026-11-10T15:26:49.160Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.14.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/oracledatabase",
+      "id": "3f8091fa-5ffb-4113-97b6-010b5fad334c",
+      "createTime": "2026-11-10T15:26:49.130Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/observability",
+      "id": "6eabfd9a-9d1c-48e3-8c3f-1106e2022782",
+      "createTime": "2026-11-10T15:26:49.096Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/notebooks",
+      "id": "f41cabeb-fd53-4d94-b08a-875d2d558096",
+      "createTime": "2026-11-10T15:26:49.065Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.19.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/networkservices",
+      "id": "bfc03142-1f04-470c-9006-b7b436621b88",
+      "createTime": "2026-11-10T15:26:49.029Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/network-security",
+      "id": "0932973d-8625-4e4b-89a4-bda13b7ababe",
+      "createTime": "2026-11-10T15:26:48.998Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        }
+      ],
+      "version": "6.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/network-management",
+      "id": "f55b6540-4cd6-4a63-ba1b-ca3bc0a5994f",
+      "createTime": "2026-11-10T15:26:48.967Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/network-connectivity",
+      "id": "6408ff01-2466-4dbc-9bc6-03fb899af84f",
+      "createTime": "2026-11-10T15:26:48.917Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.22.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/netapp",
+      "id": "1315a226-6932-4fa7-9a13-189f9b639b8e",
+      "createTime": "2026-11-10T15:26:48.873Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/monitoring",
+      "id": "a2ae7de7-b0ed-4f27-b473-10358e342390",
+      "createTime": "2026-11-10T15:26:48.843Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/migrationcenter",
+      "id": "54e51682-edf5-40d5-bec2-4d24d2013da4",
+      "createTime": "2026-11-10T15:26:48.807Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dataproc-metastore",
+      "id": "2518c1a3-e70e-4b2c-97a2-8d1cf5cd3e0e",
+      "createTime": "2026-11-10T15:26:48.774Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        }
+      ],
+      "version": "0.15.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/memorystore",
+      "id": "6986d4f2-1062-428e-b285-88d5507c3e61",
+      "createTime": "2026-11-10T15:26:48.737Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/memcache",
+      "id": "cf8ab5bb-fe4c-4866-b49e-3a8b53317c37",
+      "createTime": "2026-11-10T15:26:48.703Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/media-translation",
+      "id": "797d05d7-b98f-4b4b-b2ca-56e056d7cea0",
+      "createTime": "2026-11-10T15:26:48.669Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/managedkafka-schemaregistry",
+      "id": "a4731e25-73f3-40ce-a465-2d676a4e22b4",
+      "createTime": "2026-11-10T15:26:48.639Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/managedkafka",
+      "id": "885be0ac-c4b4-4a3e-888b-96eec7d751ff",
+      "createTime": "2026-11-10T15:26:48.605Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/managed-identities",
+      "id": "55999e82-28c0-4676-89e1-34d679916126",
+      "createTime": "2026-11-10T15:26:48.575Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.8.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/maintenance-api",
+      "id": "825963a8-a6d1-4256-b709-ba7b07d0cd29",
+      "createTime": "2026-11-10T15:26:48.543Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/lustre",
+      "id": "985d4deb-2b53-4f60-92f1-40a77bc1f4d8",
+      "createTime": "2026-11-10T15:26:48.513Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/logging-api",
+      "id": "0279f733-04f5-420e-b926-dbf250e773af",
+      "createTime": "2026-11-10T15:26:48.479Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/locationfinder",
+      "id": "005cea86-80f4-4431-a7a9-e8fba27c8afa",
+      "createTime": "2026-11-10T15:26:48.449Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/life-sciences",
+      "id": "1f860196-4572-45b7-9628-d0bc12175bff",
+      "createTime": "2026-11-10T15:26:48.416Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/licensemanager",
+      "id": "33bbe534-bbcb-4be0-ae79-acdcb2ad6118",
+      "createTime": "2026-11-10T15:26:48.386Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "8.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/language",
+      "id": "0f6492cb-97a5-48b6-ab21-48228318a951",
+      "createTime": "2026-11-10T15:26:48.352Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/kms-inventory",
+      "id": "9123c2a1-0c77-4b14-a419-f80d16670950",
+      "createTime": "2026-11-10T15:26:48.322Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/kms",
+      "id": "0a036815-105b-42aa-9ee9-de62981b61c0",
+      "createTime": "2026-11-10T15:26:48.287Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/iot",
+      "id": "7d8186c1-10bb-46fe-903a-d06c52720d55",
+      "createTime": "2026-11-10T15:26:48.239Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/ids",
+      "id": "8924d682-8d41-415b-ad1f-2ca4522788a7",
+      "createTime": "2026-11-10T15:26:48.196Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/iap",
+      "id": "61b8ed4c-2587-4fcc-bd58-9503fe0d961e",
+      "createTime": "2026-11-10T15:26:48.165Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/hypercomputecluster",
+      "id": "d585ff1d-94bb-4105-8972-2f1281c306c8",
+      "createTime": "2026-11-10T15:26:48.128Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gsuiteaddons",
+      "id": "e6d1b74e-1d3e-4976-b69f-432af626f243",
+      "createTime": "2026-11-10T15:26:48.095Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gkerecommender",
+      "id": "afc0c43f-5a91-4957-8188-4ef3df5fa89f",
+      "createTime": "2026-11-10T15:26:48.058Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gkemulticloud",
+      "id": "a626f6b7-2ee3-495a-a9e8-ec468a113844",
+      "createTime": "2026-11-10T15:26:48.027Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gke-hub",
+      "id": "c3cc7552-c082-44b2-82a3-6e640d650090",
+      "createTime": "2026-11-10T15:26:47.982Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gke-connect-gateway",
+      "id": "3a8b4cf5-7a4e-49f0-a802-211f3ce2919c",
+      "createTime": "2026-11-10T15:26:47.949Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gke-backup",
+      "id": "f0479b71-44e3-41b1-8c7b-46562817ca43",
+      "createTime": "2026-11-10T15:26:47.911Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.16.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/geminidataanalytics",
+      "id": "eba73f95-9c5b-4073-8013-db1cdfadb6fd",
+      "createTime": "2026-11-10T15:26:47.880Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.14.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gdchardwaremanagement",
+      "id": "474b7ac8-81e9-48f5-89ee-017edeeda9ab",
+      "createTime": "2026-11-10T15:26:47.846Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/functions",
+      "id": "c4437ef0-8373-4c05-916e-d142e0ddbc16",
+      "createTime": "2026-11-10T15:26:47.816Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/ftp",
+      "id": "ed1b1ab7-cd91-4766-b36d-22de55d3f41f",
+      "createTime": "2026-11-10T15:26:47.782Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.8.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/firestore-api",
+      "id": "09bea3fe-49d9-4483-bbc2-cee571bbf17c",
+      "createTime": "2026-11-10T15:26:47.751Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.8.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/financialservices",
+      "id": "87ad1b50-0965-4e86-89ef-285896630ffa",
+      "createTime": "2026-11-10T15:26:47.712Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/filestore",
+      "id": "41e8911c-dd28-43fb-a1ad-4811abcc3c55",
+      "createTime": "2026-11-10T15:26:47.679Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/eventarc-publishing",
+      "id": "24843265-dc00-463c-8c2e-f87d4854fc20",
+      "createTime": "2026-11-10T15:26:47.644Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/eventarc",
+      "id": "a51b4ee8-9eb0-4571-88aa-5623789a5f96",
+      "createTime": "2026-11-10T15:26:47.614Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/essential-contacts",
+      "id": "f7457485-4dc7-4195-9032-9b3a7c87bbd8",
+      "createTime": "2026-11-10T15:26:47.584Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.15.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/edgenetwork",
+      "id": "41137b69-beaa-476b-9aaf-82edecb05d12",
+      "createTime": "2026-11-10T15:26:47.538Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/edgecontainer",
+      "id": "c774e4b8-dc35-4c94-8976-0fb9f2199449",
+      "createTime": "2026-11-10T15:26:47.497Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/domains",
+      "id": "50ca7928-a816-42fc-a9cc-79f232c3a505",
+      "createTime": "2026-11-10T15:26:47.467Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "10.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/documentai",
+      "id": "5a7cafbb-6746-4d0d-b159-741ccf5fd911",
+      "createTime": "2026-11-10T15:26:47.434Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        }
+      ],
+      "version": "3.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/discoveryengine",
+      "id": "0d0e4d29-b6c2-4160-b82d-22049e0ffa3e",
+      "createTime": "2026-11-10T15:26:47.403Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dialogflow-cx",
+      "id": "7b78aca9-60e9-4274-a44c-8b5256566877",
+      "createTime": "2026-11-10T15:26:47.370Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "8.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dialogflow",
+      "id": "4788ce38-d3d3-4ab7-aa11-a8c00d85868a",
+      "createTime": "2026-11-10T15:26:47.340Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/devicestreaming",
+      "id": "0b0a7ddd-37d0-4c17-9acc-9271f7a7e946",
+      "createTime": "2026-11-10T15:26:47.308Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/designcenter",
+      "id": "911dc015-fa09-4e2f-814b-94ccdd0f34d9",
+      "createTime": "2026-11-10T15:26:47.277Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/deploy",
+      "id": "413c6aef-0788-45b8-ab5e-e3acb04c0055",
+      "createTime": "2026-11-10T15:26:47.245Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/datastream",
+      "id": "7181ac0c-3684-4384-b1db-ffb7f9ed96a5",
+      "createTime": "2026-11-10T15:26:47.215Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/datastore-api",
+      "id": "24b3afe9-8e4b-49ec-b17c-b93cbbed2bfd",
+      "createTime": "2026-11-10T15:26:47.183Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/data-qna",
+      "id": "892663ea-e5e5-4f34-8e63-aa6eee2b6920",
+      "createTime": "2026-11-10T15:26:47.153Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dataproc",
+      "id": "c8df1a9b-287a-40f9-b2b3-f2b0d1c80677",
+      "createTime": "2026-11-10T15:26:47.118Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dataplex",
+      "id": "4b91d06e-a7f6-4a6f-88ca-516a289a022d",
+      "createTime": "2026-11-10T15:26:47.087Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/datalabeling",
+      "id": "7177e28e-5974-4af3-b331-3df043000241",
+      "createTime": "2026-11-10T15:26:47.054Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/data-fusion",
+      "id": "038c7394-5ae5-441c-98e6-ab99886702a5",
+      "createTime": "2026-11-10T15:26:47.024Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/configmanagement",
+      "id": "2ba2f1fb-7a62-4fe3-8d5e-74c508695190",
+      "createTime": "2026-11-10T15:26:46.990Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/lineage",
+      "id": "bf1ad872-ea36-4e4c-99ce-4bb910e29639",
+      "createTime": "2026-11-10T15:26:46.961Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/datacatalog",
+      "id": "6157bba0-2c6c-482b-ae67-5aa316ca5f48",
+      "createTime": "2026-11-10T15:26:46.930Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/databasecenter",
+      "id": "b1c1abb9-f7b4-4c53-b6f9-fbbb35b94ed9",
+      "createTime": "2026-11-10T15:26:46.886Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/contentwarehouse",
+      "id": "1f669a13-76c9-46e5-99b7-91f52aed1dc9",
+      "createTime": "2026-11-10T15:26:46.848Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/contact-center-insights",
+      "id": "645e728c-b7a7-45c6-a3b4-83937f99d0c5",
+      "createTime": "2026-11-10T15:26:46.818Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.9.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/connectors",
+      "id": "9b042fc2-9792-4a3e-9536-30911690f601",
+      "createTime": "2026-11-10T15:26:46.785Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/configdelivery",
+      "id": "8064ded5-1f37-4702-b472-ed77459c706f",
+      "createTime": "2026-11-10T15:26:46.755Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.17.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/config",
+      "id": "748d94d2-275c-4914-b5cd-ed22001df5a1",
+      "createTime": "2026-11-10T15:26:46.722Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/confidentialcomputing",
+      "id": "66de70d4-8438-43b0-91bc-537ef2b62981",
+      "createTime": "2026-11-10T15:26:46.687Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.8.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/commerceproducer",
+      "id": "93af1c10-786a-4e8a-96d1-1f7b5a7f50a3",
+      "createTime": "2026-11-10T15:26:46.653Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/procurement",
+      "id": "d4fbb45c-ddd3-4e1b-a5ad-1dba487f7864",
+      "createTime": "2026-11-10T15:26:46.622Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/cloudsecuritycompliance",
+      "id": "730e0ccb-1f45-4c7c-ba2f-919fd715629b",
+      "createTime": "2026-11-10T15:26:46.587Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dms",
+      "id": "f6055109-1049-4cd4-a607-2c26b0b53d66",
+      "createTime": "2026-11-10T15:26:46.557Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.10.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/cloudcontrolspartner",
+      "id": "29874ba1-7df9-4af8-b028-9c3f005c5c0e",
+      "createTime": "2026-11-10T15:26:46.523Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/chronicle",
+      "id": "dfb42a71-3523-4d89-ae6e-ebb4dfd464e9",
+      "createTime": "2026-11-10T15:26:46.494Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/channel",
+      "id": "c73cd183-5db5-401c-a9ce-9b1e68d1fe6d",
+      "createTime": "2026-11-10T15:26:46.461Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/ces",
+      "id": "4760ec8e-720e-45f9-b419-aead84c17008",
+      "createTime": "2026-11-10T15:26:46.431Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/certificate-manager",
+      "id": "6017c9c4-10ef-42e0-ab47-01412185dfbe",
+      "createTime": "2026-11-10T15:26:46.398Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/capacityplanner",
+      "id": "1b1e8649-bc72-478e-b159-68cf3b194189",
+      "createTime": "2026-11-10T15:26:46.368Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/binary-authorization",
+      "id": "c615dc7b-4635-43ea-ad00-68b90fa80139",
+      "createTime": "2026-11-10T15:26:46.335Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/billing-budgets",
+      "id": "9de814f7-9f76-4d5c-8dec-10ccd1def31c",
+      "createTime": "2026-11-10T15:26:46.305Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/billing",
+      "id": "e6d20f87-b476-486d-b992-f2a16d8f4bb2",
+      "createTime": "2026-11-10T15:26:46.274Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigtable-api",
+      "id": "773abe2a-a2ae-4742-b62c-e693be80ddec",
+      "createTime": "2026-11-10T15:26:46.228Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-storage-api",
+      "id": "c3c22429-8d7e-4dd5-be4c-c406b41f7c70",
+      "createTime": "2026-11-10T15:26:46.188Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-reservation",
+      "id": "ad4ecc4d-bd20-4ef3-bdd2-459d869cb7c5",
+      "createTime": "2026-11-10T15:26:46.158Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-migration",
+      "id": "a828341c-aeb7-4af8-9097-d7d951722e26",
+      "createTime": "2026-11-10T15:26:46.125Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-data-transfer",
+      "id": "4c1d3065-343c-472e-aafe-d6841ea174d0",
+      "createTime": "2026-11-10T15:26:46.095Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-datapolicies",
+      "id": "704009ad-1298-44ab-b402-43a3cd8b4a2e",
+      "createTime": "2026-11-10T15:26:46.058Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-data-exchange",
+      "id": "3c90f8a2-5e96-4a4a-9edd-79d300048f91",
+      "createTime": "2026-11-10T15:26:46.027Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-connection",
+      "id": "58fe3e8a-c364-49d5-a81e-c1e271dfee4a",
+      "createTime": "2026-11-10T15:26:45.993Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-analyticshub",
+      "id": "8e2d9df5-38c6-44eb-a1ce-af1b9c3b73e4",
+      "createTime": "2026-11-10T15:26:45.962Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/clientgateways",
+      "id": "5806853d-841e-4b1b-9039-cda0a8e6e1bc",
+      "createTime": "2026-11-10T15:26:45.928Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/clientconnectorservices",
+      "id": "263570bc-2362-45cb-b5e9-5264a7870236",
+      "createTime": "2026-11-10T15:26:45.899Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/appgateways",
+      "id": "9695221d-7b15-4695-9b09-63c42a6fdbb0",
+      "createTime": "2026-11-10T15:26:45.865Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/appconnectors",
+      "id": "4fd2a954-7548-4139-b754-e8b27f26d93b",
+      "createTime": "2026-11-10T15:26:45.834Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/appconnections",
+      "id": "4f551b4c-7198-4741-84e0-4469c5bd0223",
+      "createTime": "2026-11-10T15:26:45.799Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bare-metal-solution",
+      "id": "eb303103-78bf-4440-9c10-9dec70f5211d",
+      "createTime": "2026-11-10T15:26:45.769Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/automl",
+      "id": "8463af51-00f6-4fe6-9188-34793b7b3981",
+      "createTime": "2026-11-10T15:26:45.734Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/assured-workloads",
+      "id": "7bb561f2-38a5-450b-bbfb-055600ccbf8b",
+      "createTime": "2026-11-10T15:26:45.704Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/asset",
+      "id": "920ec039-ace5-4ac0-93f4-9fa01ee23b3f",
+      "createTime": "2026-11-10T15:26:45.667Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apptopology",
+      "id": "56cb0383-8395-49e6-9770-b90dc60b21e2",
+      "createTime": "2026-11-10T15:26:45.637Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/appoptimize",
+      "id": "7416523b-5812-4cc5-ba37-2fca2e3abf08",
+      "createTime": "2026-11-10T15:26:45.602Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.10.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apphub",
+      "id": "63538166-31f9-4d7d-9df0-4a98fe027cf8",
+      "createTime": "2026-11-10T15:26:45.557Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apiregistry",
+      "id": "0cd980bf-ae5c-45d7-af25-5223b1b3a515",
+      "createTime": "2026-11-10T15:26:45.515Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.9.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apihub",
+      "id": "3cfd39e9-7811-4c44-814b-318f67f8abe6",
+      "createTime": "2026-11-10T15:26:45.483Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apigee-registry",
+      "id": "bcdd72fc-2218-4370-9996-66cc812b3c80",
+      "createTime": "2026-11-10T15:26:45.447Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apigee-connect",
+      "id": "a46e37fd-5c68-4573-bed4-c97d8f8e64c3",
+      "createTime": "2026-11-10T15:26:45.416Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/api-gateway",
+      "id": "f42be5d5-99e8-44d8-a4c3-da37e4dfdbbe",
+      "createTime": "2026-11-10T15:26:45.379Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/alloydb",
+      "id": "f32ddbb1-5de0-4c5a-a7a7-04934839a805",
+      "createTime": "2026-11-10T15:26:45.350Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/agentregistry",
+      "id": "4fa7f13a-befb-47c1-a046-22e4aae7d841",
+      "createTime": "2026-11-10T15:26:45.318Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/agentidentity",
+      "id": "53d65aa3-1077-4687-a5f3-477788f499bc",
+      "createTime": "2026-11-10T15:26:45.288Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/advisorynotifications",
+      "id": "2c18b735-a96d-4f43-8499-7357a9cd0417",
+      "createTime": "2026-11-10T15:26:45.255Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/access-approval",
+      "id": "67957fb5-9141-46f8-a60b-8b3106c300b9",
+      "createTime": "2026-11-10T15:26:45.225Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.37.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-apps/chat",
+      "id": "c740ebf4-6d5a-4f15-a70b-8248eae7588d",
+      "createTime": "2026-11-10T15:26:45.188Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google/area120-tables",
+      "id": "098df560-7d26-4945-a060-ce84ee78a5bf",
+      "createTime": "2026-11-10T15:26:45.157Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-apps/meet",
+      "id": "d37accb8-6452-4011-bde1-529ade6d1f76",
+      "createTime": "2026-11-10T15:26:45.122Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/subscriptions",
+      "id": "be624936-200b-4950-b75a-28c77eb564a3",
+      "createTime": "2026-11-10T15:26:45.092Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/appengine-admin",
+      "id": "5db5fb00-baca-4709-9716-5ace49767d25",
+      "createTime": "2026-11-10T15:26:45.056Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/service-usage",
+      "id": "a7dcf87d-87e7-4e0e-b9f1-1bb073e964a3",
+      "createTime": "2026-11-10T15:26:45.025Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/service-management",
+      "id": "d4e079c3-e11d-4cc0-85f4-c739e5ec0f0a",
+      "createTime": "2026-11-10T15:26:44.987Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/service-control",
+      "id": "92f8d1a4-7cde-48db-b55e-27b443669702",
+      "createTime": "2026-11-10T15:26:44.957Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/cloudquotas",
+      "id": "5a4bca42-3cba-4dda-ad23-ec640d0423f2",
+      "createTime": "2026-11-10T15:26:44.923Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apikeys",
+      "id": "e7d8254e-1a57-4800-92d4-e21daeca3cef",
+      "createTime": "2026-11-10T15:26:44.873Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-analytics/data",
+      "id": "2c74acbf-d668-4b87-8ecc-83e576bf2fe1",
+      "createTime": "2026-11-10T15:26:44.829Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "10.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-analytics/admin",
+      "id": "0e6707c4-e45d-4577-9c57-389daa5f492f",
+      "createTime": "2026-11-10T15:26:44.799Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-ai/generativelanguage",
+      "id": "d45dc668-e35e-4c58-b4f4-95f1c945f730",
+      "createTime": "2026-11-10T15:26:44.767Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "1.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-ads/datamanager",
+      "id": "77e505bf-0f30-46ae-824c-0377c98bdfc8",
+      "createTime": "2026-11-10T15:26:44.737Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9849"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.16.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-ads/admanager",
+      "id": "39c0dbbf-303f-4fd7-a714-28c5853f3c91",
+      "createTime": "2026-11-10T15:26:44.704Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/logging-winston",
+      "id": "da419da3-0bf6-4bbd-bd16-803f6838dd1d",
+      "createTime": "2026-11-10T15:26:44.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/logging-bunyan",
+      "id": "f3204e86-c8ad-44d5-8bff-ea5b22ed1e21",
+      "createTime": "2026-11-10T15:26:44.638Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dns",
+      "id": "6e3b7130-80cf-4f72-87e4-10b417df3437",
+      "createTime": "2026-11-10T15:26:44.603Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/error-reporting",
+      "id": "4efe8769-bc34-4259-8821-de61039ed58d",
+      "createTime": "2026-11-10T15:26:44.567Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "11.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/datastore",
+      "id": "59a2cab1-4975-4ea2-aca7-df1d12706b42",
+      "createTime": "2026-11-10T15:26:44.537Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "8.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/profiler",
+      "id": "4684a6fe-70d5-45be-aee9-4ffc547e453c",
+      "createTime": "2026-11-10T15:26:44.504Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigtable",
+      "id": "83f3e8db-b48d-4838-b7ef-4376222ce075",
+      "createTime": "2026-11-10T15:26:44.472Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-storage",
+      "id": "c608c6f8-a70f-46f7-894a-b9d6dd06c508",
+      "createTime": "2026-11-10T15:26:44.435Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "google-test-utils",
+      "id": "e8f1a1a4-72fa-4708-881c-e0eff4e5d9f0",
+      "createTime": "2026-11-10T15:26:44.400Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/promisify",
+      "id": "9d9ea002-ee31-4713-9f0f-b3b1cd36d10b",
+      "createTime": "2026-11-10T15:26:44.363Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/projectify",
+      "id": "d408ba2f-b6f7-4fcc-b7b4-506d13d3d5fa",
+      "createTime": "2026-11-10T15:26:44.327Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/precise-date",
+      "id": "7619a951-167d-4bae-9994-ea37742deab5",
+      "createTime": "2026-11-10T15:26:44.290Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "7.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/paginator",
+      "id": "2c390d5a-3711-4337-9e41-a085e86600ca",
+      "createTime": "2026-11-10T15:26:44.259Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/typeless-sample-bot",
+      "id": "87b5bb97-e58c-4a8c-b650-0f2ed89e8a21",
+      "createTime": "2026-11-10T15:26:44.223Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "2.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "gapic-tools",
+      "id": "12b2d1c9-ad00-49ff-9bfc-ac033bbdcc0d",
+      "createTime": "2026-11-10T15:26:44.189Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "11.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "teeny-request",
+      "id": "622e412f-a707-4470-b9dc-c37b93a5e7f7",
+      "createTime": "2026-11-10T15:26:44.154Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "9.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "retry-request",
+      "id": "0f7259da-f567-4f33-9967-87da335614c6",
+      "createTime": "2026-11-10T15:26:44.102Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "4.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "proto3-json-serializer",
+      "id": "84d49b9c-725d-4f6d-85a4-991706bb0207",
+      "createTime": "2026-11-10T15:26:44.055Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "google-proto-files",
+      "id": "91618ef0-e384-4ecd-a19d-84116c18ff65",
+      "createTime": "2026-11-10T15:26:44.020Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "9.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "googleapis-common",
+      "id": "85d7161f-942a-4ac4-8d85-adb65b63a216",
+      "createTime": "2026-11-10T15:26:43.983Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "9.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "gcp-metadata",
+      "id": "50f98b05-d0cc-4a9c-aeaa-680defac154d",
+      "createTime": "2026-11-10T15:26:43.949Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "8.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "gaxios",
+      "id": "5e55d5e5-8f84-4156-a9e7-e868fe5b30a7",
+      "createTime": "2026-11-10T15:26:43.914Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "0.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "gapic-node-processing",
+      "id": "ca6184ea-b360-489b-9582-bc6351450635",
+      "createTime": "2026-11-10T15:26:43.881Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.8.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gapic-generator",
+      "id": "dec1f70d-090a-45cd-8f40-3414b6605aec",
+      "createTime": "2026-11-10T15:26:43.844Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "pack-n-play",
+      "id": "c52859bc-f157-47de-97c7-95ec918325ec",
+      "createTime": "2026-11-10T15:26:43.810Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "5.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "jsdoc-region-tag",
+      "id": "3c9e5501-c59a-4e78-b183-30d2afecee25",
+      "createTime": "2026-11-10T15:26:43.775Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "6.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "jsdoc-fresh",
+      "id": "1cff77a6-d7df-4b3f-8798-82428f7ea828",
+      "createTime": "2026-11-10T15:26:43.745Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
+      "version": "8.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/common",
+      "id": "a715df60-428a-45d8-84a1-fe9016e0e97c",
+      "createTime": "2026-11-10T15:26:43.715Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        }
+      ],
       "version": "0.9.0",
       "language": "JAVASCRIPT",
       "artifactName": "@googlemaps/solar",
@@ -107824,5 +112487,5 @@
       "createTime": "2023-01-28T04:18:24.718Z"
     }
   ],
-  "updateTime": "2026-11-09T15:57:07.585Z"
+  "updateTime": "2026-11-10T15:26:52.620Z"
 }

@@ -5,6 +5,13 @@
 
 [1]: https://www.npmjs.com/package/gcp-metadata?activeTab=versions
 
+## [9.3.0](https://github.com/googleapis/google-cloud-node/compare/gcp-metadata-v9.2.3...gcp-metadata-v9.3.0) (2026-11-10)
+
+
+### Features
+
+* Update API sources and regenerate ([#9817](https://github.com/googleapis/google-cloud-node/issues/9817)) ([46517fb](https://github.com/googleapis/google-cloud-node/commit/46517fb49d3e3ae1b35af21adf352a277a5e45ea))
+
 ## [9.2.3](https://github.com/googleapis/google-cloud-node/compare/gcp-metadata-v9.2.2...gcp-metadata-v9.2.3) (2026-10-28)
 
 

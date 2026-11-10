@@ -5,6 +5,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/profiler?activeTab=versions
 
+## [8.3.0](https://github.com/googleapis/google-cloud-node/compare/cloud-profiler-v8.2.1...cloud-profiler-v8.3.0) (2026-11-10)
+
+
+### Features
+
+* Update API sources and regenerate ([#9817](https://github.com/googleapis/google-cloud-node/issues/9817)) ([46517fb](https://github.com/googleapis/google-cloud-node/commit/46517fb49d3e3ae1b35af21adf352a277a5e45ea))
+
 ## [8.2.1](https://github.com/googleapis/google-cloud-node/compare/cloud-profiler-v8.2.0...cloud-profiler-v8.2.1) (2026-10-09)
 
 
