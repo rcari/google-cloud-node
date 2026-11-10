@@ -4,6 +4,56 @@
     {
       "changes": [
         {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        },
+        {
+          "type": "fix",
+          "sha": "64c3a2bafc62273f7cdc3b9612756d631afc3f97",
+          "message": "Use npm in prepare/compile lifecycle scripts",
+          "issues": [
+            "9587"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "514e2f64ba67ad3ab956fbe3eeafa507d44ca597",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9472"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "1ea27c9c9bf4e4cbf79381321dcb9bce7951a76f",
+          "message": "PNPM workspace",
+          "issues": [
+            "8973"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "4c4bbdc3a19f6af664f7804cff6f717945a975f3",
+          "message": "Integrate native spannerlib-node wrapper and implement type system",
+          "issues": [
+            "9141"
+          ],
+          "scope": "spanner-driver"
+        }
+      ],
+      "version": "1.0.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/spanner-driver",
+      "id": "f9b58733-f2b1-47b0-b865-ad68ab22d37e",
+      "createTime": "2026-11-10T17:22:44.471Z"
+    },
+    {
+      "changes": [
+        {
           "type": "fix",
           "sha": "eb47174fc7b2cc4ef808146f65dea1891d895e8f",
           "message": "Graduate pipeline search from preview to GA",
@@ -107842,5 +107892,5 @@
       "createTime": "2023-01-28T04:18:24.718Z"
     }
   ],
-  "updateTime": "2026-11-10T15:38:13.426Z"
+  "updateTime": "2026-11-10T17:22:44.471Z"
 }
