@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.10.0](https://github.com/googleapis/google-cloud-node/compare/reviews-v0.9.0...reviews-v0.10.0) (2026-11-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* **merchantapi:** remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850))
+
+### Features
+
+* **merchantapi:** Remove discontinued Merchant API v1beta ([#9850](https://github.com/googleapis/google-cloud-node/issues/9850)) ([433ca86](https://github.com/googleapis/google-cloud-node/commit/433ca868b43c5cb40be11c9104268f860272c296))
+* Update API sources and regenerate ([#9817](https://github.com/googleapis/google-cloud-node/issues/9817)) ([46517fb](https://github.com/googleapis/google-cloud-node/commit/46517fb49d3e3ae1b35af21adf352a277a5e45ea))
+
 ## [0.9.0](https://github.com/googleapis/google-cloud-node/compare/reviews-v0.8.0...reviews-v0.9.0) (2026-10-23)
 
 
