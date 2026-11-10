@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.12.0](https://github.com/googleapis/google-cloud-node/compare/procurement-v0.11.0...procurement-v0.12.0) (2026-11-10)
+
+
+### Features
+
+* Update API sources and regenerate ([#9817](https://github.com/googleapis/google-cloud-node/issues/9817)) ([46517fb](https://github.com/googleapis/google-cloud-node/commit/46517fb49d3e3ae1b35af21adf352a277a5e45ea))
+
 ## [0.11.0](https://github.com/googleapis/google-cloud-node/compare/procurement-v0.10.0...procurement-v0.11.0) (2026-10-08)
 
 

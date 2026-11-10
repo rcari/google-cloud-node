@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.12.0](https://github.com/googleapis/google-cloud-node/compare/chronicle-v0.11.0...chronicle-v0.12.0) (2026-11-10)
+
+
+### Features
+
+* Update API sources and regenerate ([#9817](https://github.com/googleapis/google-cloud-node/issues/9817)) ([46517fb](https://github.com/googleapis/google-cloud-node/commit/46517fb49d3e3ae1b35af21adf352a277a5e45ea))
+* Update API sources and regenerate ([#9849](https://github.com/googleapis/google-cloud-node/issues/9849)) ([7144c27](https://github.com/googleapis/google-cloud-node/commit/7144c2745bb0c2bf8f19743c93e34b4bd0d50ba7))
+
 ## [0.11.0](https://github.com/googleapis/google-cloud-node/compare/chronicle-v0.10.1...chronicle-v0.11.0) (2026-10-08)
 
 
