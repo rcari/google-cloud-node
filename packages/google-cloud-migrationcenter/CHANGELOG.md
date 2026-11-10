@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.0](https://github.com/googleapis/google-cloud-node/compare/migrationcenter-v3.2.0...migrationcenter-v3.3.0) (2026-11-10)
+
+
+### Features
+
+* Update API sources and regenerate ([#9817](https://github.com/googleapis/google-cloud-node/issues/9817)) ([46517fb](https://github.com/googleapis/google-cloud-node/commit/46517fb49d3e3ae1b35af21adf352a277a5e45ea))
+
 ## [3.2.0](https://github.com/googleapis/google-cloud-node/compare/migrationcenter-v3.1.1...migrationcenter-v3.2.0) (2026-10-08)
 
 
