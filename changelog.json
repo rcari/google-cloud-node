@@ -5,6 +5,50 @@
       "changes": [
         {
           "type": "fix",
+          "sha": "30971894d0b75eb89f6ec0ca12ba71bfe40fef56",
+          "message": "Ensure OpenTelemetry context manager on cached tracing path",
+          "issues": [
+            "9728"
+          ],
+          "scope": "spanner"
+        },
+        {
+          "type": "feat",
+          "sha": "46517fb49d3e3ae1b35af21adf352a277a5e45ea",
+          "message": "Update API sources and regenerate",
+          "issues": [
+            "9817"
+          ]
+        },
+        {
+          "type": "fix",
+          "sha": "2405101edaec264681f17d1038a6f65d126c7ea4",
+          "message": "Prefer AsyncLocalStorageContextManager in OpenTelemetry instrumentation",
+          "issues": [
+            "9610"
+          ],
+          "scope": "spanner"
+        },
+        {
+          "type": "fix",
+          "sha": "7a5db1185a0c21a6f554f8c6bf640144178d5b9c",
+          "message": "ExcludeTxnFromChangeStreams field and request headers i…",
+          "issues": [
+            "9618"
+          ],
+          "scope": "Spanner"
+        }
+      ],
+      "version": "9.2.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/spanner",
+      "id": "7e1788dc-3281-4c56-8cf5-6091255add2e",
+      "createTime": "2026-11-10T17:22:44.702Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
           "sha": "eb47174fc7b2cc4ef808146f65dea1891d895e8f",
           "message": "Graduate pipeline search from preview to GA",
           "issues": [
@@ -107842,5 +107886,5 @@
       "createTime": "2023-01-28T04:18:24.718Z"
     }
   ],
-  "updateTime": "2026-11-10T15:38:13.426Z"
+  "updateTime": "2026-11-10T17:22:44.702Z"
 }

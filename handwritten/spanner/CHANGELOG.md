@@ -5,6 +5,20 @@
 
 [1]: https://www.npmjs.com/package/nodejs-spanner?activeTab=versions
 
+## [9.2.0](https://github.com/googleapis/google-cloud-node/compare/spanner-v9.1.0...spanner-v9.2.0) (2026-11-10)
+
+
+### Features
+
+* Update API sources and regenerate ([#9817](https://github.com/googleapis/google-cloud-node/issues/9817)) ([46517fb](https://github.com/googleapis/google-cloud-node/commit/46517fb49d3e3ae1b35af21adf352a277a5e45ea))
+
+
+### Bug Fixes
+
+* **spanner:** Ensure OpenTelemetry context manager on cached tracing path ([#9728](https://github.com/googleapis/google-cloud-node/issues/9728)) ([3097189](https://github.com/googleapis/google-cloud-node/commit/30971894d0b75eb89f6ec0ca12ba71bfe40fef56))
+* **Spanner:** ExcludeTxnFromChangeStreams field and request headers i… ([#9618](https://github.com/googleapis/google-cloud-node/issues/9618)) ([7a5db11](https://github.com/googleapis/google-cloud-node/commit/7a5db1185a0c21a6f554f8c6bf640144178d5b9c))
+* **spanner:** Prefer AsyncLocalStorageContextManager in OpenTelemetry instrumentation ([#9610](https://github.com/googleapis/google-cloud-node/issues/9610)) ([2405101](https://github.com/googleapis/google-cloud-node/commit/2405101edaec264681f17d1038a6f65d126c7ea4))
+
 ## [9.1.0](https://github.com/googleapis/google-cloud-node/compare/spanner-v9.0.0...spanner-v9.1.0) (2026-10-13)
 
 
