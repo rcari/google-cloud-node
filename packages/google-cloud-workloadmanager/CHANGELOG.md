@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/googleapis/google-cloud-node/compare/workloadmanager-v0.5.0...workloadmanager-v0.6.0) (2026-11-10)
+
+
+### Features
+
+* Update API sources and regenerate ([#9817](https://github.com/googleapis/google-cloud-node/issues/9817)) ([46517fb](https://github.com/googleapis/google-cloud-node/commit/46517fb49d3e3ae1b35af21adf352a277a5e45ea))
+
 ## [0.5.0](https://github.com/googleapis/google-cloud-node/compare/workloadmanager-v0.4.1...workloadmanager-v0.5.0) (2026-10-08)
 
 
