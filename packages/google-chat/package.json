@@ -1,6 +1,6 @@
 {
   "name": "@google-apps/chat",
-  "version": "0.36.0",
+  "version": "0.37.0",
   "description": "Google Chat API client for Node.js",
   "repository": {
     "type": "git",
